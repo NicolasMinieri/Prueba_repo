@@ -1,2 +1,3 @@
-1- git clone url de repo
-2- git status
+1- git clone url de repo <-- clona el repositorio remoto
+2- git status <-- estado del repo ósea si falta un archivo por subir
+3- git add . <-- subir el archivo que falta
